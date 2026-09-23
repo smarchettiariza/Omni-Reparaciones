@@ -19,17 +19,17 @@ Registro de equipos, seguimiento de estados, historial de clientes, pagos y comp
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-- 🔐 **Login con JWT** — acceso protegido, contraseña propia por instalación
-- 📋 **Registro de equipos** — alta rápida con datos del cliente y del dispositivo
-- 🔄 **Seguimiento de estados** — de "Recibido" a "Entregado", con historial completo
-- 🔍 **Búsqueda y filtros** — por orden, cliente, teléfono, IMEI, marca/modelo o estado
-- 👥 **Gestión de clientes** — ficha con historial completo de equipos traídos
-- 💰 **Control de pagos** — importe, método de pago, pagos parciales y saldo pendiente
-- 🧾 **Comprobantes** — recibo imprimible y envío directo por WhatsApp
-- ❌ **Cancelación de órdenes** — con motivo registrado en el historial
-- 📊 **Dashboard** — estado general del taller de un vistazo
+-  **Login con JWT** — acceso protegido, contraseña propia por instalación
+-  **Registro de equipos** — alta rápida con datos del cliente y del dispositivo
+-  **Seguimiento de estados** — de "Recibido" a "Entregado", con historial completo
+-  **Búsqueda y filtros** — por orden, cliente, teléfono, IMEI, marca/modelo o estado
+-  **Gestión de clientes** — ficha con historial completo de equipos traídos
+-  **Control de pagos** — importe, método de pago, pagos parciales y saldo pendiente
+-  **Comprobantes** — recibo imprimible y envío directo por WhatsApp
+-  **Cancelación de órdenes** — con motivo registrado en el historial
+-  **Dashboard** — estado general del taller de un vistazo
 
 ## 🛠️ Stack técnico
 
@@ -90,7 +90,7 @@ usuario:    admin
 contraseña: omni1234
 ```
 
-⚠️ Cambiala desde la app apenas ingreses (**Cambiar contraseña** en el menú).
+Cambiala desde la app apenas ingreses (**Cambiar contraseña** en el menú).
 
 ### 3. Datos del local
 
@@ -111,11 +111,6 @@ La app queda disponible en `http://localhost:5173`.
 - Cada instalación es **independiente**: base de datos propia, sin datos compartidos entre distintas instancias del sistema.
 - El valor de `app.jwt.secret` debe ser único por instalación — nunca reutilizar el mismo entre distintos despliegues.
 
-## 📄 Licencia
-
-Software propietario. Todos los derechos reservados.
-
----
 
 <div align="center">
 
