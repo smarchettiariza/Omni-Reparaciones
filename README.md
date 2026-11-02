@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 Omni
+#  Omni
 
 **Sistema de gestión de reparaciones de celulares**
 
@@ -38,7 +38,7 @@ Registro de equipos, seguimiento de estados, historial de clientes, pagos y comp
 | **Backend** | Java 21 · Spring Boot 3.5 · Spring Security (JWT) · Hibernate · PostgreSQL |
 | **Frontend** | React 19 · TypeScript · Vite · Tailwind CSS 3 · React Router · Axios |
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 reparaciones/
@@ -47,7 +47,7 @@ reparaciones/
 └── database/     → schema.sql — script de creación de la base de datos
 ```
 
-## 🚀 Instalación
+## Instalación
 
 ### Requisitos
 
@@ -106,7 +106,7 @@ npm run dev
 
 La app queda disponible en `http://localhost:5173`.
 
-## 📌 Notas
+## Notas
 
 - Cada instalación es **independiente**: base de datos propia, sin datos compartidos entre distintas instancias del sistema.
 - El valor de `app.jwt.secret` debe ser único por instalación — nunca reutilizar el mismo entre distintos despliegues.
