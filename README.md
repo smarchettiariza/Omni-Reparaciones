@@ -31,7 +31,7 @@ Registro de equipos, seguimiento de estados, historial de clientes, pagos y comp
 -  **Cancelación de órdenes** — con motivo registrado en el historial
 -  **Dashboard** — estado general del taller de un vistazo
 
-## 🛠️ Stack técnico
+## Stack técnico
 
 | | |
 |---|---|
