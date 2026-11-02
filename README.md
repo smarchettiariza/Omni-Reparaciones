@@ -114,6 +114,6 @@ La app queda disponible en `http://localhost:5173`.
 
 <div align="center">
 
-Hecho con 🔧 para talleres de reparación de celulares.
+Proyecto Academico.
 
 </div>
